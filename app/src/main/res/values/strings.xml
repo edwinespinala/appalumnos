@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">appalumnos2</string>
-</resources>
+    <string name="lbl_titulo">Programacion Movil I</string>
+    <string name="btn_saludar">Saludar</string>
+    <string name="edt_hint_nombre">ingrese un nombre</string>
+    <string name="edt_hint_name">ingrese un nombre</string>
+    <string name="mesnaje_error_nombre">Favor ingrese el nombre a mostrar</string>
+    <string name="mensaje_bienvenida">Bienvenida, %1$s!</string>
+    </resources>
